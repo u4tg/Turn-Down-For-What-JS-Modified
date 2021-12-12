@@ -1,4 +1,4 @@
-//Script by uploader4
+//Script by uploader4 haha
 (function() {
     var lastTime = 0;
     var vendors = ['ms', 'moz', 'webkit', 'o'];
