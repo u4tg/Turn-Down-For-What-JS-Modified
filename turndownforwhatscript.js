@@ -1,4 +1,4 @@
-//Script by nthitz
+//Script by uploader4
 (function() {
     var lastTime = 0;
     var vendors = ['ms', 'moz', 'webkit', 'o'];
